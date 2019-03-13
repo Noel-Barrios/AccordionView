@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:suave="using:AccordionView" xmlns:components="using:AccordionView" xmlns:local="clr-namespace:AccordionView" x:Class="AccordionView.MainPage">
+    <Label Text="Hi"></Label>
+</ContentPage>
